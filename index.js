@@ -1,0 +1,7 @@
+let a=2000
+let b=100
+const divide = (a,b)=> 2000/100
+
+const square = (a)=> a*a
+
+const add = (a,b)=> a+b
